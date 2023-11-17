@@ -16,7 +16,9 @@
   None
   
   ## Usage
-  Input node index.js to run the application
+  Input  node index.js to run the application
+[Untitled_ Nov 16, 2023 9_55 PM.webm](https://github.com/DerekDang05/cautious-journey/assets/142350017/1420ae89-d9d0-4376-a9b5-4a502c7cddb9)
+
   
   ## License
   MIT
